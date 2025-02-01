@@ -1,4 +1,8 @@
 @charset "UTF-8";
+* {
+  font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+}
+
 ul:not(.has-disc) {
   list-style-type: none;
 }
