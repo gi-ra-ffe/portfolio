@@ -97,6 +97,7 @@ body > header {
     bottom: 0;
     width: 100%;
     margin-bottom: -1px;
+    z-index: 100;
     @include media(md) {
         position: sticky;
         top: 0;
