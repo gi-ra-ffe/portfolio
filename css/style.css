@@ -31,6 +31,14 @@ a:hover {
   content: ")";
 }
 
+.bg-gray {
+  background: #eee;
+}
+
+.ml1em {
+  margin-left: 1em;
+}
+
 ul.cards {
   display: flex;
   flex-wrap: wrap;
@@ -462,6 +470,12 @@ body > header {
 
 .modalWindowBack .cts--archieve ul.lang .icon_wrap {
   height: 4em;
+}
+
+.modalWindowBack .cts--archieve .details span.bg-gray {
+  display: inline-block;
+  font-size: 0.8em;
+  margin: 0.1em;
 }
 
 .modalWindowBack .cts--archieve .overview {
